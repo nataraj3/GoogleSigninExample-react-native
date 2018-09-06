@@ -19,7 +19,7 @@ export default class App extends React.Component {
       scopes: ['https://www.googleapis.com/auth/drive.readonly'],
       // Repleace with your webClientId generated from Firebase console
       webClientId:
-        '1010390097065-il58s8pn8sdlruk2vda04ln4l6vs0t8i.apps.googleusercontent.com',
+        'your web Clint Id',
     });
   }
   _signIn = async () => {
